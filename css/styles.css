@@ -342,6 +342,7 @@ html, body {
    }
    nav {
       background-color: #6258B2;
+      box-shadow: 0 0px 10px 0 rgba(0,0,0,0.25);
    }
 }
 
