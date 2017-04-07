@@ -145,6 +145,7 @@ html, body {
    .project-description {
      padding-left: 5%;
      padding-right: 5%;
+     height: 100%;
      transition: opacity .8s ease-in-out;
    }
 
@@ -156,13 +157,14 @@ html, body {
 
    hr {
      margin: 0;
-     opacity: 0.5;
+     color: #f7f7f7;
    }
 
    .more-info {
      display: flex;
      padding-left: 5%;
      color: black;
+     height: 100%;
    }
 
    .info-text {
@@ -336,7 +338,10 @@ html, body {
       background-color: #6258B2
    }
    .title {
-      margin-top: -50px;
+      margin-top: -25px;
+   }
+   nav {
+      background-color: #6258B2;
    }
 }
 
